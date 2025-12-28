@@ -1,3 +1,5 @@
+ https://berrythetrans.github.io/buttonVerse/
+
 ButtonVerse Documentation
 ButtonVerse is a massive library of copy-paste animated buttons designed for React and Tailwind CSS. It features over 1,000 distinct styles ranging from standard UI components (Primary, Secondary, Ghost) to complex animated effects (Glitch, Neon, 3D).
 1. Prerequisites
